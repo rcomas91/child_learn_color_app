@@ -1,4 +1,4 @@
-# child_learn_color_app
+# My first app using Flutter
 
 A new Flutter project.
 
